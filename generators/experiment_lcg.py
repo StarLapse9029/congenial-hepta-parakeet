@@ -4,7 +4,7 @@ from plotting import plot_histograms, plot_lag_scatter, plot_sequence
 from datetime import datetime
 
 SEED = 42
-SAMPLE_SIZE = 2000
+SAMPLE_SIZE = 200000
 
 configs = {
     "glibc":              dict(modulus=2**31, multiplier=1103515245, increment=12345),
