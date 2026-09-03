@@ -21,8 +21,12 @@ Given multiplier = a, increment = c and modulus = m
 - c and m → coprime
 - prime factors of m → divide a−1
 - if m has a factor of 4 → 4 divides a−1
+<!-- 
 
+LCG was a nice read
+Reminder to do a deeper read on the Hull-Dobell Theorem
 
+-->
 ## TODO
 - Hexbin/Subsampling: For better graphs at higher sample sizes
 - Add Scipy
